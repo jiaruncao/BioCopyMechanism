@@ -2,8 +2,9 @@
 
 A repository for implementation of BIO-tagged copy mechanism
 
-## Baseline
-
+## Resource
+#### Baseline
+- **Paper: **https://arxiv.org/pdf/1807.02301.pdf
 #### Abstractive Summarization on Gigaword Dataset
 
 | Model | ROUGE-1 | ROUGE-2 | ROUGE-L | Paper / Source | Code |
