@@ -4,9 +4,7 @@ A repository for implementation of BIO-tagged copy mechanism
 
 ## Baseline
 
-### 1. Abstractive Summarization
-
-Gigaword Dataset
+#### Abstractive Summarization on Gigaword Dataset
 
 | Model | ROUGE-1 | ROUGE-2 | ROUGE-L | Paper / Source | Code |
 | --------------- | :-----: | :-----: | :-----: | -------------- | ---- |
