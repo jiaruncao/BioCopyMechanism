@@ -6,7 +6,7 @@ A repository for implementation of BIO-tagged copy mechanism
 
 #### Abstractive Summarization
 
-### Gigaword Dataset
+Gigaword Dataset
 
 
 
